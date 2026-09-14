@@ -1,5 +1,4 @@
 # MODELO DE LINGUAGEM SIMPLES - BIGRAMA DE CARACTERES
-=====================================================
 
 O que este código faz, em uma frase:
 Ele "lê" um texto, aprende quais letras costumam vir depois de quais
